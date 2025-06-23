@@ -2,11 +2,11 @@
 
 A modern, elegant e-commerce website showcasing authentic Zimbabwean artwork to the global diaspora. Built with Next.js 14, TypeScript, and Tailwind CSS.
 
-## 🎨 About Kure
+ About Kure
 
-"Kure" means "growth" in Shona, representing our mission to nurture artistic talent while preserving Zimbabwe's cultural heritage. Each piece in our collection is more than art—it's a bridge connecting diaspora communities to their roots.
+"Kure" means "far" in Shona, representing our mission to bring home a little bit closer by artistic talent while preserving Zimbabwe's cultural heritage. Each piece in our collection is more than art—it's a bridge connecting diaspora communities to their roots.
 
-## ✨ Features
+ Features
 
 - **Modern Design**: Minimalist, elegant interface inspired by high-end art galleries
 - **Responsive**: Fully responsive design that works on all devices
@@ -15,7 +15,7 @@ A modern, elegant e-commerce website showcasing authentic Zimbabwean artwork to 
 - **Smooth Animations**: Framer Motion animations for enhanced user experience
 - **SEO Optimized**: Built with Next.js 14 for optimal performance and SEO
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 - **Frontend**: Next.js 14 (App Router), TypeScript, Tailwind CSS
 - **Animations**: Framer Motion
@@ -23,7 +23,7 @@ A modern, elegant e-commerce website showcasing authentic Zimbabwean artwork to 
 - **Payment**: Stripe integration (planned)
 - **Deployment**: Vercel-ready
 
-## 🚀 Getting Started
+ Getting Started
 
 ### Prerequisites
 
@@ -34,7 +34,7 @@ A modern, elegant e-commerce website showcasing authentic Zimbabwean artwork to 
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone 
    cd kure-art-studio
    ```
 
@@ -73,7 +73,7 @@ src/
 └── data/                 # Data structures and mock data
 ```
 
-## 🎨 Design System
+Design System
 
 ### Colors
 - **Warm White**: #FEFCF8
@@ -87,7 +87,7 @@ src/
 - **Headers**: Playfair Display (serif)
 - **Body**: Inter (sans-serif)
 
-## 📄 Pages (Planned)
+ Pages (Planned)
 
 - [x] **Homepage** - Hero section, featured artists, call-to-action
 - [ ] **Gallery** - Filterable artwork grid
@@ -97,7 +97,7 @@ src/
 - [ ] **Contact** - Contact form
 - [ ] **Cart/Checkout** - Shopping cart and payment
 
-## 🌟 Current Status
+ Current Status
 
 **Phase 1: Foundation** ✅
 - [x] Project setup with Next.js 14
@@ -121,11 +121,11 @@ src/
 - [ ] User authentication
 - [ ] Order management
 
-## 🤝 Contributing
+ Contributing
 
 This project focuses on authentic Zimbabwean art representation. Contributions should maintain cultural sensitivity and authenticity.
 
-## 📞 Contact
+ Contact
 
 For questions about the project or featuring your artwork, contact hello@kureartudio.com
 
